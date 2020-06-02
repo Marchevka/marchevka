@@ -6,9 +6,9 @@ Messiho zivot.
 Messhiho kariera.
 Messiho uspechy.
 ----
-Tento text predstavuje OBSAH clanku. Bude hned pod styrmi pomlckami
-a bude vzdy na 3 riadkoch bez ohladu na to
-ake dlhe budu.
+Žije v Barcelone, má ženu a 3 deti, má 32 rokov.
+Hrá za futbalový klub FC Barcelona.
+6-krát vyhral ocenenie za najlepšieho hráča roka.
 ----
 Tento text predstavuje ZAVER clanku. Bude hned pod styrmi pomlckami
 a bude vzdy na 3 riadkoch bez ohladu na to
