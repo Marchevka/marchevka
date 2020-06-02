@@ -1,0 +1,20 @@
+Autor: Tomáš Marchevka
+Nazov: Lionel Messi
+Datum: 2.6.2020
+----
+Tento text predstavuje Messho zivotopis. 
+Jeho karieru.
+Zivot. 
+----
+Lionel Messi má už 32 rokov, má ženu a 3 deti.
+Hrá vo futbalovom klube FC Barcelona.
+Žije v Barcelone.
+----
+<<<<<<< HEAD:Clanok1.txt
+
+
+=======
+Lionel Messi sa narodil pre futbal.
+Vidíme to vždy keď pozeráme zápas či už FC Barcelona alebo národného tímu Argentiny.
+Dúfajme, že nás bude futbalovo baviť ešte zopár rokov.
+>>>>>>> origin/branch-development:Clanok1-v1.txt
