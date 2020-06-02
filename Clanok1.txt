@@ -2,9 +2,9 @@ Autor: Tomáš Marchevka
 Nazov: Lionel Messi
 Datum: 2.6.2020
 ----
-Tento text predstavuje UVOD clanku. Bude hned pod styrmi pomlckami
-a bude vzdy na 3 riadkoch bez ohladu na to
-ake dlhe budu.
+Tento text predstavuje Messho zivotopis. 
+Jeho karieru.
+Zivot. 
 ----
 Tento text predstavuje OBSAH clanku. Bude hned pod styrmi pomlckami
 a bude vzdy na 3 riadkoch bez ohladu na to
