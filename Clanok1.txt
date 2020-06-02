@@ -6,9 +6,9 @@ Tento text predstavuje Messho zivotopis.
 Jeho karieru.
 Zivot. 
 ----
-Tento text predstavuje OBSAH clanku. Bude hned pod styrmi pomlckami
-a bude vzdy na 3 riadkoch bez ohladu na to
-ake dlhe budu.
+Lionel Messi má už 32 rokov, má ženu a 3 deti.
+Hrá vo futbalovom klube FC Barcelona.
+Žije v Barcelone.
 ----
 Tento text predstavuje ZAVER clanku. Bude hned pod styrmi pomlckami
 a bude vzdy na 3 riadkoch bez ohladu na to
